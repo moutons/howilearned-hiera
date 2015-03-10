@@ -1,0 +1,6 @@
+---
+hiera_level   : production
+databasename  : drupal1
+dbuser        : drupal2
+dbpasswd      : t0T@lly!@!P4$5w3rB
+dbhost        : db1.example.gov
